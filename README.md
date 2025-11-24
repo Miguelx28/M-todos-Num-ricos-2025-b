@@ -1,4 +1,4 @@
-# M-todos-Num-ricos-2025-b
+# Métodos-Numéricos-2025-b
 
 En este repositorio se encuentran los materiales relacionados con el proyecto de Métodos Numéricos del grupo 2. 2025-B
 
