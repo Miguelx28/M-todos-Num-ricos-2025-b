@@ -11,3 +11,5 @@ Energía – Predicción y optimización del consumo eléctrico residencial.
 - Miguel Angel Robles Velez
 - Erik Alexander Guerrero Pillasagua
 - Eduardo Alejandro Verdezoto Paredes
+
+![alt text](image.png)
