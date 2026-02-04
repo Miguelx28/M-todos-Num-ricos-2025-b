@@ -4,7 +4,7 @@ En este repositorio se encuentran los materiales relacionados con el proyecto de
 
 ## Proyecto
 
-Energía – Predicción y optimización del consumo eléctrico residencial.
+Energía – Predicción del consumo eléctrico residencial.
 
 ## Integrantes
 
