@@ -4,7 +4,7 @@ En este repositorio se encuentran los materiales relacionados con el proyecto de
 
 ## Proyecto
 
-Energía – Predicción y optimización del consumo eléctrico residencial.
+Energía – Predicción del consumo eléctrico residencial.
 
 ## Integrantes
 
@@ -12,8 +12,3 @@ Energía – Predicción y optimización del consumo eléctrico residencial.
 - Erik Alexander Guerrero Pillasagua
 - Eduardo Alejandro Verdezoto Paredes
 
-![alt text](image.png)
-
-![alt text](image-1.png)
-
-![alt text](image-2.png)
